@@ -1,30 +1,69 @@
-# Custom Poker Card Generator
+# Card Studio - Custom Poker Cards Generator
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+![Card Studio](https://card-deck-generator.vercel.app//ss/landing-page.png)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/filszus-projects/v0-custom-poker-card-generator)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/XYAMuw85itg)
+Card Studio is a powerful web application that allows you to create custom poker cards with your own images. Perfect for game nights, special events, or unique gifts.
 
-## Overview
+## 🌟 Features
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+### 🎨 Design Custom Cards
+- Upload your own images for each card
+- Choose from multiple card templates (Classic, Modern, Neon, Vintage, Minimalist, Dark Mode)
+- Customize card borders, colors, and text
+- Apply text formatting with various fonts and styles
+- Position text elements with drag-and-drop functionality
 
-## Deployment
+![Card Templates](https://card-deck-generator.vercel.app//ss/editor-templates.png)
 
-Your project is live at:
+### 🔄 Batch Operations
+- Upload multiple images at once
+- Apply design changes to all cards simultaneously
+- Manage your entire deck efficiently
 
-**[https://vercel.com/filszus-projects/v0-custom-poker-card-generator](https://vercel.com/filszus-projects/v0-custom-poker-card-generator)**
+### 📱 Responsive Design
+- Works on desktop and mobile devices
+- Intuitive interface for easy card creation
 
-## Build your app
+### 🖨️ Export Options
+- Export individual cards as high-quality PNG images
+- Export the entire deck as a ZIP file
+- Print cards by suit for easy organization
+- Preview cards before printing or exporting
 
-Continue building your app on:
+![Card Editor](https://card-deck-generator.vercel.app//ss/editor-upload.png)
 
-**[https://v0.dev/chat/projects/XYAMuw85itg](https://v0.dev/chat/projects/XYAMuw85itg)**
+### 💾 Persistent Storage
+- Automatically saves your work using local storage
+- Continue your design across browser sessions
 
-## How It Works
+### 🔄 History Management
+- Undo and redo functionality
+- Track changes to your card designs
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 🚀 Getting Started
+
+1. Visit the Card Studio website
+2. Click "Start Creating" to begin your custom deck
+3. Upload images for your cards
+4. Customize the design, colors, and text
+5. Export your finished deck
+
+## 💻 Technical Features
+
+- Built with Next.js and React
+- Responsive design with Tailwind CSS
+- Drag-and-drop functionality with Framer Motion
+- Local storage for persistent data
+- Client-side image processing
+
+## 📋 License
+
+This project is licensed under a restricted use license. See the [LICENSE.md](./LICENSE.md) file for details.
+
+## 👨‍💻 Author
+
+Created by [Filszu](https://github.com/filszu)
+
+---
+
+© 2025 Card Studio. All rights reserved.

@@ -2,7 +2,7 @@
 
 ## License
 
-Copyright © 2023 Filip (https://github.com/filszu)
+Copyright © 2025 Filip (https://github.com/filszu)
 
 **RESTRICTED USE LICENSE**
 
